@@ -38,7 +38,7 @@
 <hr></hr>
 
 ## 📈 GitHub Activity Graph
-[![Jeet's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=JeetP3108&theme=gruvbox)](https://github.com/JeetP3108/github-readme-activity-graph)
+[![Jeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeetP3108&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr></hr>
 
