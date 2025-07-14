@@ -1,70 +1,24 @@
-<h1 align="center">Hi all, I'm Jeet Patel 👋</h1>
+# 💫 About Me:
+🔭 I’m an AI Engineer at Stellis Labs (Nvidia Inception).<br>🎓 Pursuing MS in Data Analytics (Applied Machine Intelligence) at Northeastern University, Boston.<br>🧠 Currently building AI-driven research agents, grading assistants, and contrastive idea generators.<br>💬 Ask me about LLMs, Machine Learning, NLP, AI Agents, Data Engineering.<br>👨 Pronouns: He/Him.<br>⚡ Fun fact: I'm always exploring the latest in AI research and love hiking scenic trails!
 
-<p align="left">
-  <img alt="Jeet's Profile Views" src="https://komarev.com/ghpvc/?username=JeetP3108&style=flat&color=blue&label=Profile%20Views"/>
-  <img alt="Jeet's GitHub Followers" src="https://img.shields.io/github/followers/JeetP3108?style=flat&color=blue&label=Followers"/>
-  <img alt="Jeet's GitHub Stars" src="https://img.shields.io/github/stars/JeetP3108?style=flat&color=blue&label=Stars"/>
-  <img alt="MIT License" src="https://img.shields.io/github/license/JeetP3108/JeetP3108?style=flat&color=blue&label=License"/>
-</p>
 
-<img align="right" alt="AI Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeetpatel3108) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeet2304patel@gmail.com) 
 
-- 🔭 I’m an AI Engineer at Stellis Labs (Nvidia Inception).
-- 🎓 Pursuing MS in Data Analytics (Applied Machine Intelligence) at Northeastern University, Boston.
-- 🧠 Currently building AI-driven research agents, grading assistants, and contrastive idea generators.
-- 💬 Ask me about LLMs, Machine Learning, NLP, AI Agents, Data Engineering.
-- 👨 Pronouns: He/Him.
-- ⚡ Fun fact: I'm always exploring the latest in AI research and love hiking scenic trails!
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JeetP3108&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JeetP3108&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeetP3108&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<hr></hr>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JeetP3108&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🏆 GitHub Profile Trophies
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JeetP3108&theme=gruvbox" alt="Jeet's Profile Trophies" width="80%"/></a></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<hr></hr>
+---
+[![](https://visitcount.itsvg.in/api?id=JeetP3108&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🎇 GitHub Stats
-<div align="center">
-<table>
-<tbody>
-<tr>
-  <td style="text-align:center"><a href="https://github.com/denvercoder1/github-readme-streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=JeetP3108&date_format=j%20M%5B%20Y%5D&theme=gruvbox" alt="Jeet's Streak Stats"/></a></td>
-  <td style="text-align:center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JeetP3108&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="Jeet's GitHub Stats" /></a></td>
-</tr>
-</tbody>
-</table>
-</div>
-
-<hr></hr>
-
-## 📈 GitHub Activity Graph
-[![Jeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeetP3108&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<hr></hr>
-
-## 🎊 GitHub Metrics & Languages Used
-<div align="center">
-<table>
-<tbody>
-<tr>
-  <td style="text-align:center"><img src="https://metrics.lecoq.io/JeetP3108?template=classic&base.header=0&languages=1&isocalendar=1" alt="Jeet's GitHub Metrics"/></td>
-  <td style="text-align:center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeetP3108&layout=compact&theme=gruvbox&hide_border=true" alt="Jeet's Top Languages"/></a></td>
-</tr>
-</tbody>
-</table>
-</div>
-
-<hr></hr>
-
-## 🚀 Featured Projects
-
-- 🔬 [Kidney Disease Classification (Deep Learning with VGG16, TensorFlow)](https://github.com/JeetP3108/Kidney-Disease-Classification-MLflow)  
-- 📈 [Sales Prediction & Inventory Optimization (PyTorch, LSTM, Transformers)](https://github.com/JeetP3108/Coffee-Beans-Inventory-Optimization)  
-- 🤖 AI Research Agents (LLM, Contrastive Idea Generation, Semantic Scholar API)
-
-<hr></hr>
-
-<h2> ❤️ Connect with me </h2>
-
-&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](mailto:jeet2304patel@gmail.com)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/JeetP3108)&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/jeetpatel3108)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
