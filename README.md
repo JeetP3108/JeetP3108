@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m an AI Engineer at Stellis Labs (Nvidia Inception).<br>🎓 Pursuing MS in Data Analytics (Applied Machine Intelligence) at Northeastern University, Boston.<br>🧠 Currently building AI-driven research agents, grading assistants, and contrastive idea generators.<br>💬 Ask me about LLMs, Machine Learning, NLP, AI Agents, Data Engineering.<br>👨 Pronouns: He/Him.<br>⚡ Fun fact: I'm always exploring the latest in AI research and love hiking scenic trails!
+🔭 I’m an Software Engineer focused in AI and LLMs<br>🎓 Pursuing MS in Data Analytics (Applied Machine Intelligence) at Northeastern University, Boston.<br>🧠 Currently building AI-driven research agents, grading assistants, and contrastive idea generators.<br>💬 Ask me about LLMs, Machine Learning, NLP, AI Agents, Data Engineering.<br>👨 Pronouns: He/Him.<br>⚡ Fun fact: I'm always exploring the latest in AI research and love hiking scenic trails!
 
 
 ## 🌐 Socials:
